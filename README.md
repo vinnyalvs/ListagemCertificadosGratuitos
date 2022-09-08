@@ -1,6 +1,9 @@
 # ListagemCertificadosGratuitos
 Uma compilado de diversos certificados que podem ser obtidos gratuitamente.
 
+Quer contribuir? Antes acesse o [Guia de Contribuição](/CONTRIBUTING.md)
+
+
 # MercadoPago
 
 Acesse aqui: https://www.mercadopago.com.br/developers/pt/developer-program/
@@ -15,7 +18,7 @@ Acesse aqui: https://www.mercadopago.com.br/developers/pt/developer-program/
 
 Acesse aqui: https://partner-training.shopify.com/my_courses?filter%5Bcategories_name%5D=TYPE_exam
 
-## Certificados de Exames disponíveis:
+## Certificados disponíveis:
 
 * Product Fundamentals Certification
 * App Development Certification
@@ -27,7 +30,7 @@ Observação: É possível conseguir algumas certificações de jornadas da Azur
 
 Acesse aqui: https://msftstudentcert.cloudreadyskills.com/
 
-## Certificados de Exames disponíveis:
+## Certificados disponíveis:
 
 * AZ-900: Microsoft Azure Fundamentals 
 * DP-900: Microsoft Azure Data Fundamentals 
@@ -36,5 +39,10 @@ Acesse aqui: https://msftstudentcert.cloudreadyskills.com/
 * PL-900: Microsoft Power Platform Fundamentals 
 * MS-900: Microsoft 365 Fundamentals 
 
+# Scrumstudy
 
+Acesse aqui: https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified
 
+## Certificados disponíveis:
+
+* Scrum Fundamentals Certified
