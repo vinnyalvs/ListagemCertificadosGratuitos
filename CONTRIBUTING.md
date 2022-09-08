@@ -6,9 +6,9 @@ Esse guia tem como objetivo dar uma visão do workflow de contribuição.
 
 ## Qual o objetivo do projeto? 
 
-A ideia aqui é fazer um compilado de certificações gratuitas. Principalmente certificações que são disponibilizadas após um exame e não após a conclusão de um curso. Por exemplo temos as do Developer Program do Mercado Pago, e do Partner Academy do Shopify. 
+A ideia aqui é fazer um compilado de certificações gratuitas. Principalmente certificações que são disponibilizadas após um exame e não após a conclusão de um curso. Por exemplo temos as do Developer Program do Mercado Pago, e do Partner Academy do Shopify. Além disso, também é válido certificações que são gratuitas sobre alguma condição, como por exemplo as da Azure.
 
-Além disso, também é válido certificações que são gratuitas sobre alguma condição, como por exemplo as da Azure.
+Também é interessante que os certificados sejam fornecidos por instituiçĩoes relevantes para que o certificado tenha algum significado. 
 
 
 # Como posso sugerir novas certificações?
