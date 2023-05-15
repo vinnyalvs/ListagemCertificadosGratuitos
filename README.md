@@ -14,6 +14,12 @@ Acesse aqui: https://www.mercadopago.com.br/developers/pt/developer-program/
 * MercadoPago WooComerce
 * MercadoPago Checkout PRO
 
+# New Relic
+
+Acesse aqui: https://learn.newrelic.com/page/credentials
+
+* Full Stack Observability Practitioner Certification
+
 # Shopify
 
 Acesse aqui: https://partner-training.shopify.com/my_courses?filter%5Bcategories_name%5D=TYPE_exam
