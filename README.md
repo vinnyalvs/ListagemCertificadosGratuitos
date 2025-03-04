@@ -18,9 +18,11 @@ Acesse aqui: https://www.mercadopago.com.br/developers/pt/developer-program/
 
 Acesse aqui: https://learn.newrelic.com/page/credentials
 
-* Full Stack Observability Practitioner Certification
+* New Relic Verified Foundation (NVF)
 
 # Shopify
+
+## !!! Os certificados do spotify foram descontinuados !!!
 
 Acesse aqui: https://partner-training.shopify.com/my_courses?filter%5Bcategories_name%5D=TYPE_exam
 
